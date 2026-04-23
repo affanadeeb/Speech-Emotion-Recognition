@@ -23,4 +23,4 @@ Robust Speech Emotion Recognition: MFCC + Noisy + Enhancement using CTSP + wav2v
 * **Python Notebooks:** Modular scripts for noise injection, signal enhancement, hybrid feature extraction, and model training.
 * **Project Documentation:** Includes Mid-term, Final Evaluation, and References PDF reports.
 ---
-**Note:** Raw audio datasets and large .npy feature arrays are excluded from this repository due to size constraints.
+**Note:** Raw audio datasets, enhanced audio and large .npy feature arrays are excluded from this repository due to size constraints.
