@@ -1,0 +1,14 @@
+wav/
+Noisy_EmoDB/
+Enhanced_EmoDB_MMSE/
+Enhanced_EmoDB_PAPER/
+Extracted_Features_Clean/
+Extracted_Features_Noisy/
+Extracted_Features_PAPER/
+Extracted_Features_MMSE/
+
+models/*.pkl
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
